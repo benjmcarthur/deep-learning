@@ -12,5 +12,6 @@
 <img src="switch4-v0.gif" alt=""></p>
 <h4 id="references">References</h4>
 <p><a href="https://arxiv.org/abs/1707.06347">https://arxiv.org/abs/1707.06347</a><br>
-<a href="https://openai.com/blog/openai-baselines-ppo/#ppo">https://openai.com/blog/openai-baselines-ppo/#ppo</a></p>
+<a href="https://openai.com/blog/openai-baselines-ppo/#ppo">https://openai.com/blog/openai-baselines-ppo/#ppo</a><br>
+<a href="https://github.com/nikhilbarhate99/PPO-PyTorch/blob/master/PPO.py">https://github.com/nikhilbarhate99/PPO-PyTorch/PPO.py</a></p>
 
