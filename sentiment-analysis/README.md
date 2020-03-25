@@ -28,19 +28,14 @@
 </code></pre>
 <h2 id="results">Results</h2>
 <p>The final accuracy of the system was 41%. It was effective at determining the ranking of clearly positive or negative reviews, as shown by the sample results below:</p>
-<pre><code>Dunkirk: One of the most captivating and compelling films of the year so far . 
-Predicted rating: 5 
-
-Max Max: Fury Road: Arty , gorgeous , exciting , compelling , and poignant all at once . 
-Predicted rating: 5 
-
-Thor: Ragnarok: A great film that will definitely entertain you and keep a smile on your face . 
-Predicted rating: 4 
-
-Meet the Spartans: This was the worst movie I 've ever seen , so bad that I hesitate to label it a ' movie ' and thus reflect shame upon the entire medium of film . 
-Predicted rating: 1 
-
-Santa Claus Conquers the Martians: The plot , such as it is , proves it is possible to insult the intelligence of a three - year - old 
-Predicted rating: 2
-</code></pre>
+<p><code>Dunkirk: One of the most captivating and compelling films of the year so far .</code><br>
+<strong><code>Predicted rating: 5</code></strong></p>
+<p><code>Max Max: Fury Road: Arty , gorgeous , exciting , compelling , and poignant all at once .</code><br>
+<strong><code>Predicted rating: 5</code></strong></p>
+<p><code>Thor: Ragnarok: A great film that will definitely entertain you and keep a smile on your face .</code><br>
+<strong><code>Predicted rating: 4</code></strong></p>
+<p><code>Meet the Spartans: This was the worst movie I 've ever seen , so bad that I hesitate to label it a ' movie ' and thus reflect shame upon the entire medium of film .</code><br>
+<strong><code>Predicted rating: 1</code></strong></p>
+<p><code>Santa Claus Conquers the Martians: The plot , such as it is , proves it is possible to insult the intelligence of a three - year - old</code><br>
+<strong><code>Predicted rating: 2</code></strong></p>
 
