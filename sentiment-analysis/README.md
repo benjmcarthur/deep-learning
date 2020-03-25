@@ -12,8 +12,8 @@
 <ul>
 <li>Stopwords are removed from the reviews</li>
 <li>Words are encoded into vectors of length 300 using word2vec from the python <a href="https://pypi.org/project/embeddings/">embeddings</a> package</li>
-<li>Each word is fed into the LSTM, starting with the first word in the review and ending with the last</li>
-<li>The final output of the LSTM is fed into a MLP with layer sizes 120-120-5, to produce a rating from 1 to 5 for that review</li>
+<li>Each word is fed into a LSTM (input 300, output 120), starting with the first word in the review and ending with the last</li>
+<li>The final output of the LSTM is fed into a MLP (layer sizes 120-120-5), to produce a rating from 1 to 5 for that review</li>
 </ul>
 <p>The loss function is defined for this structure, so both the LSTM and MLP are trained at once:</p>
 <pre><code>function loss(xbatch, ybatch)
